@@ -14,3 +14,5 @@ $ git add <file name> / git add .           --> 2 опції
 2. 
 
 """
+
+print("I am learning Python")
