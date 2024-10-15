@@ -1,6 +1,6 @@
 
 def authenticate_user():
-    pass
+    print("AUTHENTICATING OUR USER")
 
 
 authenticate_user()
